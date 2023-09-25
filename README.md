@@ -54,8 +54,12 @@ ssh-keygen -t rsa -b 4096 -C "your email"
 
 <br>
 
-### 9.
+### 9. Verifying the successful creation of the SSH connection
 
-![AltText]()
-![AltText]()
-![AltText]()
+![AltText](successful_auth.png)
+
+<br>
+
+### 10. Final step
+![AltText](add_origin.png)
+![AltText](adding_ssh.png)
