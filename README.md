@@ -9,12 +9,14 @@ git status
 git commit -m "your comment"
 ```
 ![AltText](/Images/creating_local_repo.png)
+
 This will initialise the local repository and will you will have created your First Commit.
 
 <br>
 
 ### 2. Creating GitHub Repository
 ![AltText](/Images/creating_github_repo.png)
+
 This will create the Repository on GitHub. 
 
 <br>
@@ -89,6 +91,7 @@ It's also a good idea to make sure you switch to `main` branch as `master` is no
 Next, to allow access to GitHut to your SSH key, enter the following command:
 `ssh -T git@github.com`
 ![AltText](Images/successful_auth.png)
+
 Once you enter `yes` you will receive the message "You've successfully authenticated, but GitHub does not provide shell access."
 
 <br>
