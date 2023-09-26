@@ -88,8 +88,12 @@ It's also a good idea to make sure you switch to `main` branch as `master` is no
 <br>
 
 ### 9. Allowing SSH access to GitHub
-Next, to allow access to GitHut to your SSH key, enter the following command:
-`ssh -T git@github.com`
+Next, to allow access to GitHub to your SSH key, enter the following command:
+
+```
+ssh -T git@github.com
+```
+
 ![AltText](Images/successful_auth.png)
 
 Once you enter `yes` you will receive the message "You've successfully authenticated, but GitHub does not provide shell access."
